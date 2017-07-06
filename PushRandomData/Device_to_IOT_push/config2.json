@@ -1,0 +1,8 @@
+{
+   "keyPath": "/home/de-iot/Downloads/AWSIOT/1.Simulation/certificates/72b6b40378-private.pem.key",
+  "certPath": "/home/de-iot/Downloads/AWSIOT/1.Simulation/certificates/72b6b40378-certificate.pem.crt",
+    "caPath": "/home/de-iot/Downloads/AWSIOT/1.Simulation/certificates/root-CA.crt",
+  "clientId": "TestDevice",
+    "region": "ap-northeast-2",
+    "topic":"test"
+}

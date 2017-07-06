@@ -1,0 +1,41 @@
+[
+  {
+    "RoomId": "a064f9fc43e732d3",
+    "RoomName": "Pankaj",
+    "Building": "Tower 8",
+    "Floor": "Second",
+    "Location": {
+      "lat": -0.1,
+      "lon": 2.34
+    },
+    "CurrentStatus": "Empty",
+    "VideoConf": true,
+    "updatedAt": 1498567981285
+  },
+  {
+    "RoomId": "f9c6cd4ffcabe426",
+    "RoomName": "Vaisali",
+    "Building": "Tower 18",
+    "Floor": "Ground",
+    "Location": {
+      "lat": -70,
+      "lon": -80
+    },
+    "CurrentStatus": "Empty",
+    "VideoConf": false,
+    "updatedAt": 1498567981365
+  },
+  {
+    "RoomId": "f218a5bf6d70112f",
+    "RoomName": "Topaz",
+    "Building": "Tower 17",
+    "Floor": "First",
+    "Location": {
+      "lat": -6.7,
+      "lon": 3.67
+    },
+    "CurrentStatus": "Empty",
+    "VideoConf": true,
+    "updatedAt": 1498567981371
+  }
+]

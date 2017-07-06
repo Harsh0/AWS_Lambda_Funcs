@@ -1,0 +1,17 @@
+{
+    "TracingConfig": {
+        "Mode": "PassThrough"
+    }, 
+    "CodeSha256": "ofaCTVzDs9443awxXmLB2onjPUMUFMDw/2TiWH5DbdA=", 
+    "FunctionName": "SaveCameraData1", 
+    "CodeSize": 1965, 
+    "MemorySize": 128, 
+    "FunctionArn": "arn:aws:lambda:ap-northeast-2:527500720746:function:SaveCameraData1", 
+    "Version": "$LATEST", 
+    "Role": "arn:aws:iam::527500720746:role/service-role/SimpleMicroServicePermission", 
+    "Timeout": 3, 
+    "LastModified": "2017-06-27T11:41:04.744+0000", 
+    "Handler": "index.handler", 
+    "Runtime": "nodejs6.10", 
+    "Description": "A simple function"
+}

@@ -1,0 +1,4 @@
+Building,Floor,latitude,longitude,RoomName,VideoConf
+Tower 8,Second,-0.1,2.34,Pankaj,true
+Tower 18,Ground,-70,-80,Vaisali,false
+Tower 17,First,-6.7,3.67,Topaz,true

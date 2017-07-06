@@ -1,0 +1,21 @@
+{
+    "TracingConfig": {
+        "Mode": "PassThrough"
+    }, 
+    "CodeSha256": "lNDCet5hv90XfkUsyEjzMlohlZndoN6/pCh9i7lJYOk=", 
+    "FunctionName": "SaveCameraData", 
+    "VpcConfig": {
+        "SubnetIds": [], 
+        "SecurityGroupIds": []
+    }, 
+    "MemorySize": 128, 
+    "FunctionArn": "arn:aws:lambda:ap-northeast-2:527500720746:function:SaveCameraData", 
+    "Version": "$LATEST", 
+    "Role": "arn:aws:iam::527500720746:role/service-role/SimpleMicroServicePermission", 
+    "Timeout": 10, 
+    "LastModified": "2017-06-27T13:20:38.695+0000", 
+    "Handler": "index.handler", 
+    "Runtime": "nodejs6.10", 
+    "CodeSize": 2341, 
+    "Description": "A simple backend (read/write to DynamoDB) with a RESTful API endpoint using Amazon API Gateway."
+}
